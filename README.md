@@ -1,4 +1,5 @@
-hello, i like computers.
+hi, I'm minusone.
+I don't really publish my code but maybe there's something useful to you somewhere in my public repos.
 
 
   <div style="margin: 10px 0;">
